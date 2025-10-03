@@ -1,0 +1,32 @@
+body {
+  background-color: red;
+}
+@font-face {
+  font-family: 'SairaExtraCondensedThinItalic';
+  src: url(saira-extra-condensed-thin-italic.ttf);
+ 
+}
+@font-face {
+    font-family: 'SairaExtraCondensedSemiBoldItalic';
+    src: url(saira-extra-condensed-semi-bold-italic.ttf);
+}
+@font-face {
+    font-family: 'SairaExtraCondensedExtraLight';
+    src: url(SairaExtraCondensed-ExtraLight.ttf);
+}
+@font-face {
+    font-family: 'SairaExtraCondensedLight';
+    src: url(SairaExtraCondensed-Light.ttf);
+}
+@font-face {
+    font-family: 'SairaExtraCondensedMedium';
+    src: url(SairaExtraCondensed-Medium.ttf);
+}
+h1, p {
+    font-size: 32px;
+    font-family: 'SairaExtraCondensedThinItalic';
+    margin-top: -5px;
+}
+button {
+    font-family: 'SairaExtraCondensedMedium';
+}
