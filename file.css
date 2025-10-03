@@ -25,15 +25,13 @@ body {
 h1, p {
     font-size: 32px;
     font-family: 'SairaExtraCondensedThinItalic';
-    margin-top: -5px;
+    margin-top: 25px;
 }
 button {
     font-size: 32px;
     font-family: 'SairaExtraCondensedThinItalic';
 }
 img {
-    margin-top: 100px; /* Moves the image down. Adjust as needed. */
+    margin-top: 100px; 
 }
-p {
-    margin-top: 30px;
-}
+
