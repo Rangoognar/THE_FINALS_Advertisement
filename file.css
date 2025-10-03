@@ -32,7 +32,5 @@ img {
     margin-bottom: -18px;
 }
 .img2 {
-    margin-top: -23px;
-
+    margin-top: -24px; /* Moves only the second image down. Adjust as needed. */
 }   
-
