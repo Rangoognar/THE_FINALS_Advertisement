@@ -1,24 +1,24 @@
 
 @font-face {
   font-family: 'SairaExtraCondensedThinItalic';
-  src: url(saira-extra-condensed-thin-italic.ttf);
+  src: url(fonts/saira-extra-condensed-thin-italic.ttf);
  
 }
 @font-face {
     font-family: 'SairaExtraCondensedSemiBoldItalic';
-    src: url(saira-extra-condensed-semi-bold-italic.ttf);
+    src: url(fonts/saira-extra-condensed-semi-bold-italic.ttf);
 }
 @font-face {
     font-family: 'SairaExtraCondensedExtraLight';
-    src: url(SairaExtraCondensed-ExtraLight.ttf);
+    src: url(fonts/SairaExtraCondensed-ExtraLight.ttf);
 }
 @font-face {
     font-family: 'SairaExtraCondensedLight';
-    src: url(SairaExtraCondensed-Light.ttf);
+    src: url(fonts/SairaExtraCondensed-Light.ttf);
 }
 @font-face {
     font-family: 'SairaExtraCondensedMedium';
-    src: url(SairaExtraCondensed-Medium.ttf);
+    src: url(fonts/SairaExtraCondensed-Medium.ttf);
 }
 h1, p {
     font-size: 32px;
