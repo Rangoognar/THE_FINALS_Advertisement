@@ -31,6 +31,12 @@ img {
     margin-top: 50px;
     margin-bottom: -18px;
 }
+h1{
+  font-size: 40px;
+  font-family:'SairaExtraCondensedThinItalic';
+  maring-top: -2000px;
+}
 .img2 {
     margin-top: -24px; /* Moves only the second image down. Adjust as needed. */
+
 }   
