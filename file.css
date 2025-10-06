@@ -36,10 +36,14 @@ h2 {
   font-family:'SairaExtraCondensedThinItalic';
   margin-top: -2000px;
 }
-.img2 {
+img2 {
     margin-top: -24px; /* Moves only the second image down. Adjust as needed. */
-
 }   
+rectangle2{
+  position: fixed;
+}
+
+
 
 
 
