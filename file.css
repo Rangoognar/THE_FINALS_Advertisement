@@ -50,7 +50,7 @@ h3 {
 }
 
                                     
-.rectangle {
+rectangle {
         position: absolute;
         top: 0;
         left: 0;
@@ -60,7 +60,7 @@ h3 {
         z-index: -1;
     }
 
-.rectangle2{
+rectangle2{
         position: absolute;
         top: 500px;
         left: 0;
@@ -81,6 +81,7 @@ body {
     margin-bottom: 20px;
     margin-top: 1000px;
  } 
+
 
 
 
