@@ -28,6 +28,13 @@
     font-family: 'SairaExtraCondensedExtraBold';
     src: url(fonts/SairaExtraCondensed-ExtraBold.ttf);
 }
+.img1 {
+    margin-top: 50px;
+    margin-bottom: -32px;
+}
+.img2 {
+    margin-top: -5px;
+}  
 h1, p {
     font-size: 40px;
     font-family: 'SairaExtraCondensedThinItalic';
@@ -38,14 +45,6 @@ button {
     font-family: 'SairaExtraCondensedExtraLight';
 }
 
-img {
-    margin-top: 50px;
-    margin-bottom: -18px;
-
-}
-.img2 {
-    margin-top: -24px;
-}
 
 h3 {
     font-family: 'SairaExtraCondensedThinItalic';
@@ -107,6 +106,7 @@ html {
   grid-template-columns:  auto auto auto;
   grid-template-rows:  500px;
   justify-items: center;
+  margin-top: 18px;
 }
 
 .container2 {
