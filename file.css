@@ -43,7 +43,7 @@ img {
     margin-bottom: -18px;
 
 }
-.img2 {
+img2 {
     margin-top: -24px;
 }
 
@@ -113,8 +113,9 @@ html {
   display: grid;
   grid-template-columns:  auto auto auto;
   column-gap: 50px;
-  background-image: url(the-finals-ballerina-black-swan-hd-wallpaper-uhdpaper.com-393@1@n.jpg);
+  background-image: url('the-finals-ballerina-black-swan-hd-wallpaper-uhdpaper.com-393@1@n.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
         height: 1080px;
+
