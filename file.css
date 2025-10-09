@@ -106,7 +106,7 @@ html {
   grid-template-columns:  auto auto auto;
   grid-template-rows:  500px;
   justify-items: center;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .container2 {
@@ -119,4 +119,5 @@ html {
         background-repeat: no-repeat;
         height: 1080px;
 }
+
 
