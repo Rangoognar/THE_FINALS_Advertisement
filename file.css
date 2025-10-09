@@ -43,7 +43,7 @@ img {
     margin-bottom: -18px;
 
 }
-img2 {
+.img2 {
     margin-top: -48px;
 }
 
@@ -118,6 +118,7 @@ html {
         background-position: center;
         background-repeat: no-repeat;
         height: 1080px;
+
 
 
 
